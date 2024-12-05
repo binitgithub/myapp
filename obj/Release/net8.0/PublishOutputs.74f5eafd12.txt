@@ -1,0 +1,12 @@
+F:\Backend-Data\myapp\publish\myapp.exe
+F:\Backend-Data\myapp\publish\appsettings.Development.json
+F:\Backend-Data\myapp\publish\appsettings.json
+F:\Backend-Data\myapp\publish\myapp.dll
+F:\Backend-Data\myapp\publish\myapp.deps.json
+F:\Backend-Data\myapp\publish\myapp.runtimeconfig.json
+F:\Backend-Data\myapp\publish\myapp.pdb
+F:\Backend-Data\myapp\publish\Microsoft.AspNetCore.OpenApi.dll
+F:\Backend-Data\myapp\publish\Microsoft.OpenApi.dll
+F:\Backend-Data\myapp\publish\Swashbuckle.AspNetCore.Swagger.dll
+F:\Backend-Data\myapp\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Backend-Data\myapp\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
